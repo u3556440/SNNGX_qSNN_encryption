@@ -90,10 +90,10 @@ Flag | VarType | Help
 ## Citation 
 If you find SNNGX code useful and helpful to your work, please kindly cite the paper :fire: :fire:
 ```
-@article{wong2024snngx,
-  title={SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator},
-  author={Wong, Kwunhang and Wang, Songqi and Huang, Wei and Zhang, Xinyuan and He, Yangu and Lai, Karl MH and Jiao, Yuzhong and Lin, Ning and Qi, Xiaojuan and Chen, Xiaoming and others},
-  journal={arXiv preprint arXiv:2407.15152},
-  year={2024}
+@inproceedings{wong2024snngx,
+title = {SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator},
+author = {Wong, Kwunhang and Wang, Songqi and Huang, Wei and Zhang, Xinyuan and He, Yangu and Lai, Karl Ming Him and Jiao, Yuzhong and Lin, Ning and Qi, Xiaojuan and Chen, Xiaoming and Wang, Zhongrui},
+booktitle = {Proceedings of the 43rd IEEE/ACM International Conference on Computer-Aided Design},
+year = {2025}
 }
 ```
